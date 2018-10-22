@@ -1,5 +1,5 @@
 I have dataset "Pima Indians Diabetes Database" in csv format and I will try to predict onset of diabetes based on diagnostic measures.
-### File columns is:
+### File columns:
 - **Pregnancies** -- Number of times pregnant
 - **Glucose** -- Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 - **BloodPressure** -- Diastolic blood pressure (mm Hg)
